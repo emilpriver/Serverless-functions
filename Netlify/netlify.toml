@@ -6,5 +6,4 @@
 
 [build]
   base = "/"
-  command = "make build"
   functions = "/functions"
