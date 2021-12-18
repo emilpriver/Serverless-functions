@@ -1,5 +1,5 @@
 # Serverless functions repo
-This repo contains different Serverless Functions i've build and deployed to different providers to learn and explore.
+This repo contains different Serverless Functions I've built and deployed to different providers to learn and explore.
 
 ## Functions
 
