@@ -1,6 +1,6 @@
 [submodule "Cloudflare Workers/Spotify Top Played Tracks"]
 	path = Cloudflare Workers/Spotify Top Played Tracks
 	url = https://github.com/emilpriver/Cloudflare-Workers-Spotify-most-played-song.git
-[submodule "Netlify/functions/weather-from-runner"]
-	path = Netlify/functions/weather-from-runner
+[submodule "Netlify/weather-lambda"]
+	path = Netlify/weather-lambda
 	url = https://github.com/emilpriver/serverless-function-go-locale-weather.git
