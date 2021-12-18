@@ -1,1 +1,1 @@
-# Functions running on Netlify
+# Netlify functions
