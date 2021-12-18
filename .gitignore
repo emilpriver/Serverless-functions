@@ -160,5 +160,6 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/go,node,serverless
 
 .DS_Store
+
 # Local Netlify folder
 .netlify
