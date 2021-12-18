@@ -1,6 +1,3 @@
 [submodule "Cloudflare Workers/Spotify Top Played Tracks"]
 	path = Cloudflare Workers/Spotify Top Played Tracks
 	url = git@github.com:emilpriver/Cloudflare-Workers-Spotify-most-played-song.git
-[submodule "Netlify/functions/locale-weather"]
-	path = Netlify/functions/locale-weather
-	url = git@github.com:emilpriver/serverless-function-go-locale-weather.git
