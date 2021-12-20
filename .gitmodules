@@ -3,4 +3,4 @@
 	url = https://github.com/emilpriver/Cloudflare-Workers-Spotify-most-played-song.git
 [submodule "Netlify/weather-lambda"]
 	path = Netlify/weather-lambda
-	url = git@github.com:emilpriver/serverless-function-go-locale-weather.git
+	url = https://github.com/emilpriver/serverless-function-go-locale-weather.git
