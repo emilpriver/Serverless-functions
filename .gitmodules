@@ -4,3 +4,6 @@
 [submodule "Netlify/weather-lambda"]
 	path = Netlify/weather-lambda
 	url = https://github.com/emilpriver/serverless-function-go-locale-weather.git
+[submodule "Cloudflare Workers/Fetch Weather info based on runners information"]
+	path = Cloudflare Workers/Fetch Weather info based on runners information
+	url = https://github.com/emilpriver/Rust-API-weather-locale.git
