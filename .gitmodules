@@ -7,3 +7,6 @@
 [submodule "Cloudflare Workers/Fetch Weather info based on runners information"]
 	path = Cloudflare Workers/Fetch Weather info based on runners information
 	url = https://github.com/emilpriver/Rust-API-weather-locale.git
+[submodule "Cloudflare Workers/Image"]
+	path = Cloudflare Workers/Image
+	url = https://github.com/emilpriver/cloudflare-image-worker-resize-typescript.git
